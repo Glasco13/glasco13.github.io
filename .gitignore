@@ -1,0 +1,7 @@
+# On ne publie QUE les pages chiffrées, tout le reste est ignoré
+# (le PDF en clair reste en local : il est intégré, chiffré, dans les pages)
+*
+!.gitignore
+!index.html
+!cv-classique.html
+!recruteur.html
